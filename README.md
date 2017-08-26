@@ -14,12 +14,12 @@ worry, we're still keeping things relatively basic. Here's what your end result 
 A couple of pointers:
 
 - The feed is contained in a `div` that is 600px wide, and centered horizontally. **Do this using Flexbox for
-practice!** Note that it also has some top margin to make the feed not stick to the page.
-- Feel free to use any content you want
-- All tweets have a bottom line to separate them a little, apart from the last tweet.
-- Keep an eye on the whitespace: between the image and the text on the right, between the tweet and the separator, ...
+practice!** Note that it also has some top margin to make the feed not stick to the page. X
+- Feel free to use any content you want. X
+- All tweets have a bottom line to separate them a little, apart from the last tweet. X
+- Keep an eye on the whitespace: between the image and the text on the right, between the tweet and the separator, ... X
 - Lastly, add a custom class called `muted` (you can do this in the `<head>` of the HTML using the `<style>` tag). This
-class gives text a font color of `#999`. Apply this to the Twitter handle and date timestamp as shown in the screenshot.
+class gives text a font color of `#999`. Apply this to the Twitter handle and date timestamp as shown in the screenshot. X
 
 
 ## Resources
